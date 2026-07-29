@@ -1,0 +1,11 @@
+Q1 > Sort he array consisting of only 1s and 0s.
+
+Q2 > Given an array of integers 'a',move all the even integers at the beginning of the array follwed by all the 
+     odd integers. The relative order of odd or even integers does not matter . Return any array that satisfies the condition.
+     
+Q3 > Given an integer array 'a' sorted in non-decreasing order, return an array of squares of each
+     number sorted in non-decreasing order.
+
+     i.e arr[]={-10,-9,5,3,4,8,-6}
+     ans = {100,81,64,36,25,16,9}
+     
